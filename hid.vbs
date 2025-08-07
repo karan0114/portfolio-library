@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "portfolio-library.bat", 0, True
